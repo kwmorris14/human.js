@@ -1,0 +1,34 @@
+var human = [{
+	"attributes":{
+		"name": "",
+		"age":"",
+		"birthdate":"",
+		"birthplace":"",
+		"alive":"true",
+		"diseases":[],
+		"languages":{
+			"primary":"",
+			"secondary":"",
+			"others":{
+				"ph":""
+			}
+		},
+		"face":{
+			"faceColor":"",
+			"eyeColor":"",
+			"hairColor":"",
+			"skinColor":"",
+			"glasses":"false",
+			"height":"",
+			"weight":"",
+			"facialHair":"none",
+			"teeth":"",
+			"nose":"",
+			"ears":"",
+			"chin":""
+
+		}
+		
+	}
+
+}];

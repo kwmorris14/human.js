@@ -1,0 +1,26 @@
+{
+  "name": "human.js",
+  "version": "1.0.0",
+  "description": "an attempt at making a human JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwmorris14/human.js.git"
+  },
+  "keywords": [
+    "human"
+  ],
+  "author": "Keith Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwmorris14/human.js/issues"
+  },
+  "homepage": "https://github.com/kwmorris14/human.js#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "jquery": "^3.1.0"
+  }
+}
